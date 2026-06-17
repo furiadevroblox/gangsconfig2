@@ -29,38 +29,5 @@
 			"Susanoo": 1,
 			"Rasteira": 1
 		}
-	},
-
-
-	"Eternal Covernant": {
-		"GroupID": 755862819,
-		"MinRank": 1,
-
-		"Colors": {
-			"Nome": {
-				"TextColor": [0,234,255],
-				"TextStrokeColor": [0,0,0]
-			},
-
-			"Patente": {
-				"TextColor": [0,234,255],
-				"TextStrokeColor": [0,0,0]
-			},
-
-			"Time": {
-				"TextColor": [0,234,255],
-				"TextStrokeColor": [0,0,0]
-			}
-		},
-
-		"Itens": {
-			"Raio": 1,
-			"Rinnegan": 1,
-			"Kokusen": 1,
-			"SusanooV3": 1,
-			"Dash": 1,
-			"Susanoo": 1,
-			"Rasteira": 1
-		}
 	}
 }
