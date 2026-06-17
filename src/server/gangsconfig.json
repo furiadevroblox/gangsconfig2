@@ -1,5 +1,5 @@
 {
-	"teste1": {
+	"gaystroopa": {
 		"GroupID": 35147149,
 		"MinRank": 1,
 
@@ -59,6 +59,141 @@
 			"Rinnegan": 1,
 			"Kokusen": 1,
 			"DashCorvo": 1
+		}
+	},
+
+	"Gang3": {
+		"GroupID": 1234,
+		"MinRank": 1,
+
+		"Colors": {
+			"Nome": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Patente": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Time": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			}
+		},
+
+		"Itens": {
+			"Poder1": 1,
+			"Poder2": 1
+		}
+	},
+
+	"Gang4": {
+		"GroupID": 1234,
+		"MinRank": 1,
+
+		"Colors": {
+			"Nome": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Patente": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Time": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			}
+		},
+
+		"Itens": {
+			"Poder1": 1,
+			"Poder2": 1
+		}
+	},
+
+	"Gang5": {
+		"GroupID": 1234,
+		"MinRank": 1,
+
+		"Colors": {
+			"Nome": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Patente": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Time": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			}
+		},
+
+		"Itens": {
+			"Poder1": 1,
+			"Poder2": 1
+		}
+	},
+
+	"Gang6": {
+		"GroupID": 1234,
+		"MinRank": 1,
+
+		"Colors": {
+			"Nome": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Patente": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Time": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			}
+		},
+
+		"Itens": {
+			"Poder1": 1,
+			"Poder2": 1
+		}
+	},
+
+	"Gang7": {
+		"GroupID": 1234,
+		"MinRank": 1,
+
+		"Colors": {
+			"Nome": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Patente": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			},
+
+			"Time": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [0,0,0]
+			}
+		},
+
+		"Itens": {
+			"Poder1": 1,
+			"Poder2": 1
 		}
 	}
 }
