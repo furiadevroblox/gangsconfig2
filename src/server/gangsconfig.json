@@ -1,0 +1,26 @@
+{
+    "Overlords": {
+        "GroupID": 35147149,
+        "MinRank": 1,
+        "GangName": "Overlord's",
+        "Items": [
+            "Susanoo",
+            "Raio",
+            "Rinnegan",
+            "Kokusen",
+            "DashCorvo",
+            "SusanooV3"
+        ]
+    },
+
+    "CalamityAssoc": {
+        "GroupID": 12345678,
+        "MinRank": 10,
+        "GangName": "Tyrant Association",
+        "Items": [
+            "Hakai",
+            "HakaiBan",
+            "HakaiPBan"
+        ]
+    }
+}
