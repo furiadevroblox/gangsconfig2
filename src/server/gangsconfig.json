@@ -10,7 +10,7 @@
 			},
 
 			"Patente": {
-				"TextColor": [0,0,0],
+				"TextColor": [255,255,255],
 				"TextStrokeColor": [255,255,255]
 			},
 
