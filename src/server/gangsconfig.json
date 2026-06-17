@@ -1,5 +1,5 @@
 {
-	"gangbang": {
+	"Overlord's": {
 		"GroupID": 35147149,
 		"MinRank": 1,
 
@@ -15,7 +15,7 @@
 			},
 
 			"Time": {
-				"TextColor": [0,0,0],
+				"TextColor": [22, 0, 0],
 				"TextStrokeColor": [255,255,255]
 			}
 		},
