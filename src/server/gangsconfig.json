@@ -5,18 +5,18 @@
 
 		"Colors": {
 			"Nome": {
-				"TextColor": "Black",
-				"TextStrokeColor": "White"
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [255,255,255]
 			},
 
 			"Patente": {
-				"TextColor": "Black",
-				"TextStrokeColor": "White"
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [255,255,255]
 			},
 
 			"Time": {
-				"TextColor": "White",
-				"TextStrokeColor": "Black"
+				"TextColor": [255,255,255],
+				"TextStrokeColor": [0,0,0]
 			}
 		},
 
