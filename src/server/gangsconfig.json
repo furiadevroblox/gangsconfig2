@@ -1,5 +1,5 @@
 {
-	"gaysgang": {
+	"Overlord's": {
 		"GroupID": 35147149,
 		"MinRank": 1,
 
@@ -15,7 +15,7 @@
 			},
 
 			"Time": {
-				"TextColor": [30, 0, 0],
+				"TextColor": [0,0,0],
 				"TextStrokeColor": [0,0,0]
 			}
 		},
