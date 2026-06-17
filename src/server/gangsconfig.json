@@ -15,7 +15,7 @@
 			},
 
 			"Time": {
-				"TextColor": [22,0,0],
+				"TextColor": [30, 0, 0],
 				"TextStrokeColor": [0,0,0]
 			}
 		},
