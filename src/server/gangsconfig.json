@@ -1,26 +1,32 @@
 {
-    "Overlords": {
-        "GroupID": 35147149,
-        "MinRank": 1,
-        "GangName": "Overlord's",
-        "Items": [
-            "Susanoo",
-            "Raio",
-            "Rinnegan",
-            "Kokusen",
-            "DashCorvo",
-            "SusanooV3"
-        ]
-    },
+	"gangbang": {
+		"GroupID": 35147149,
+		"MinRank": 1,
 
-    "CalamityAssoc": {
-        "GroupID": 12345678,
-        "MinRank": 10,
-        "GangName": "Tyrant Association",
-        "Items": [
-            "Hakai",
-            "HakaiBan",
-            "HakaiPBan"
-        ]
-    }
+		"Colors": {
+			"Nome": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [255,255,255]
+			},
+
+			"Patente": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [255,255,255]
+			},
+
+			"Time": {
+				"TextColor": [0,0,0],
+				"TextStrokeColor": [255,255,255]
+			}
+		},
+
+		"Itens": {
+			"Raio": 1,
+			"Rinnegan": 1,
+			"Kokusen": 1,
+			"SusanooV3": 1,
+            "Susanoo": 1,
+			"Rasteira": 1
+		}
+	}
 }
