@@ -18,6 +18,12 @@ module.Races = {
 		RaceName = "anjo",
 		RaceTag = "anjo",
 	},
+	["Instinto"] = {
+		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
+		Icon = 15797097317,
+		RaceName = "instinto",
+		RaceTag = "instinto",
+	},
 	["VastoLorde"] = {
 		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
 		Icon = 107557120350668,
