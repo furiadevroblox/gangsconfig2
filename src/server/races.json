@@ -37,7 +37,7 @@ module.Races = {
 		RaceTag = "hakai",
 	},
 	["KaioShin"] = {
-		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
+		PlayersPermission = {"robloxeric1206", "robloxeric1208", "TevinDev_740"},
 		Icon = 88719027239897,
 		RaceName = "KaioShin",
 		RaceTag = "kaioshin",
