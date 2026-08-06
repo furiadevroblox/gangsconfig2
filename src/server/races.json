@@ -55,7 +55,7 @@ module.Races = {
 		RaceTag = "kilua",
 	},
 	["Uchiha"] = {
-		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
+		PlayersPermission = {"robloxeric1206", "robloxeric1208", "TevinDev_740"},
 		Icon = 6807731616,
 		RaceName = "Uchiha",
 		RaceTag = "uchiha",
