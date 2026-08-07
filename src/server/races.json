@@ -66,8 +66,8 @@ module.Races = {
 	["Gojo"] = {
 		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
 		Icon = 16708672510,
-		RaceName = "Xeno",
-		RaceTag = "Xeno",
+		RaceName = "Gojo",
+		RaceTag = "Gojo",
 	},
 
  -- racas em teste
