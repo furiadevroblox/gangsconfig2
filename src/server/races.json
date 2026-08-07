@@ -63,7 +63,7 @@ module.Races = {
 		RaceName = "Cosmic",
 		RaceTag = "cosmic",
 	},
-	["Xeno"] = {
+	["Gojo"] = {
 		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
 		Icon = 16708672510,
 		RaceName = "Xeno",
