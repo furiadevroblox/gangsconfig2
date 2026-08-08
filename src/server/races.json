@@ -9,18 +9,6 @@ module.Races = {
 		RaceName = "anjo",
 		RaceTag = "anjo",
 	},
-	["VastoLorde"] = {
-		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
-		Icon = 107557120350668,
-		RaceName = "VastoLorde",
-		RaceTag = "vastolorde",
-	},
-	["Majin"] = {
-		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
-		Icon = 121525410617389,
-		RaceName = "majin",
-		RaceTag = "majin",
-	},
 	["Hakaishin"] = {
 		PlayersPermission = {"robloxeric1206", "robloxeric1208", "TevinDev_740"},
 		Icon = 75841837094533,
@@ -38,13 +26,7 @@ module.Races = {
 		Icon = 126275912972530,
 		RaceName = "mahoraga",
 		RaceTag = "mahoraga",
-	},
-	["Kilua"] = {
-		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
-		Icon = 18367318475,
-		RaceName = "kilua",
-		RaceTag = "kilua",
-	},
+	},,
 	["Uchiha"] = {
 		PlayersPermission = {"robloxeric1206", "robloxeric1208", "TevinDev_740"},
 		Icon = 6807731616,
@@ -57,26 +39,11 @@ module.Races = {
 		RaceName = "Instinto",
 		RaceTag = "Instinto",
 	},
-	["Cosmic"] = {
-		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
-		Icon = 11229028251,
-		RaceName = "Cosmic",
-		RaceTag = "cosmic",
-	},
 	["Gojo"] = {
 		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
 		Icon = 16708672510,
 		RaceName = "gojo",
 		RaceTag = "gojo",
-	},
-
- -- racas em teste
-
-		["Anão"] = {
-		PlayersPermission = {"robloxeric1206", "robloxeric1208"},
-		Icon = 130920965488753,
-		RaceName = "Anão",
-		RaceTag = "Anão",
 	},
 
 	
